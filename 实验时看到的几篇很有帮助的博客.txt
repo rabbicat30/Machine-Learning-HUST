@@ -1,0 +1,5 @@
+1. 由学习曲线如何判断过拟合和欠拟合--https://blog.csdn.net/real_ilin/article/details/91909047
+2. SVM的两个参数C和gamma的影响--https://blog.csdn.net/lujiandong1/article/details/46386201
+3. 绘制学习曲线--https://blog.csdn.net/qq_36523839/article/details/82556932
+4. 模型调参利器网格搜索法--https://blog.csdn.net/weixin_41988628/article/details/83098130
+5. sklearn包含的常见算法--https://blog.csdn.net/qq_20412595/article/details/82192927
